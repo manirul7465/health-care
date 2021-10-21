@@ -1,0 +1,24 @@
+.doctors{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    grid-gap:20px;
+}
+.heading{
+    color:rebeccapurple;
+    text-align: center;
+    
+    
+}
+.doctors{
+    background-color: rgb(156, 171, 199);
+}
+
+@media only screen and (max-width:688px){
+    .doctors{
+        grid-template-columns: repeat(1,1fr);
+    }
+}
+.head{
+    background-color: rgb(151, 155, 172);
+    
+}

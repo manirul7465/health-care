@@ -1,0 +1,64 @@
+
+[
+    {    "id":1,
+        "name":"Prof. Md. Mostafizur Rahman","Specialist":
+        "medicine specialist","Degree":"MBBS, FCPS (Med), FRCP (UK), FCCP (USA)","Serial":"Saturday- Thursday",
+         "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKmnEmjCxb7Ma8V3CBYRXO4bPMGGI9oaFVECm02nsRDfChn7GB&s"    
+    }, 
+    {    "id":2,
+        "name":"Prof. Md. Mostafizur Rahman","Specialist":
+        "Laporascopic Surgery, Colorectal Surgery","Degree":"MRCP (UK), FCPS","Serial":"thursday-sunsday",
+         "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKX3KwTgt2eLHTCeanPvxGEmGIhBqsESJZUrKS2Kt7LkdXYto&s"    
+    },
+    {    "id":3,
+        "name":"Prof. Md. Mostafizur Rahman","Specialist":
+        "Orthopaedic & Trauma Surgeon","Degree":"MBBS, MS","Serial":"Sunday-monday",
+         "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxaJDEMvm9KidGg1nH-oDuFb21M6qs0eNvc_PzV_DuOtzB2qY&s "    
+    },
+    {    "id":4,
+        "name":"Prof. Md. Mostafizur Rahman","Specialist":
+        "neuro surgeon","Degree":"MBBS, FCPS, FICS (Neurosurgery)","Serial":"Saturday- Thursday",
+         "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLS-7wu_wCPsz8awKaxhpSSxQjNQGv4LY8sdNzB-sKleVP8Sx8&s"    
+    },
+    {    "id":5,
+        "name":"Prof. Md. Mostafizur Rahman","Specialist":
+        "ENT & Head-Neck Specialist Surgeon","Degree":"MBBS, FCPS, MS, FRCS)","Serial":"Sunday- Tuesday",
+         "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiSzHVpRExJ5nn9GUoWM29nhkz9z5Fb7SZW4ZZ_5fn5i4easE&s "    
+    },
+    {    "id":6,
+        "name":"Prof. Md. Mostafizur Rahman","Specialist":
+        "Paediatric Cardiologist","Degree":"MBBS, DPD (Uk)","Serial":"wednesday- monday",
+         "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpT07TjDCoMNRHOVpC3iHZc3kZNhM4ddEdH0tzomDe2eLXh9Wk&s "    
+    },
+    {    "id":7,
+        "name":"Prof. Md. Mostafizur Rahman","Specialist":
+        "Laser & Cosmetic Surgeon","Degree":"MBBS, DVD","Serial":"friday- Thursday",
+         "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRitOGEHDoEsh-tqlIXzbOD9sBkgr5gCevAKBCrr4FZV3_Kgs4&s "    
+    },
+    {    "id":8,
+        "name":"Prof. Md. Mostafizur Rahman","Specialist":
+        "Paediatrics","Degree":"MBBS, FCPS, FRCP (Edin)","Serial":"Sunday- Thursday",
+         "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAQiyoRfH9UVn_5_pBGol1if8O4jrSvO3570mt14BahI_4Oc4d&s"    
+    },
+    {    "id":9,
+        "name":"Prof. Md. Mostafizur Rahman","Specialist":
+        "medicine specialist","Degree":"MBBS, MCPS (Medicine)","Serial":"friday- Thursday",
+         "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-LrCAt-jOXzt-VaL1uaQgNfe4cnjlw8LDNWRzHGNpB9ZGcN_g&s "    
+    },
+    {    "id":10,
+        "name":"Prof. Md. Mostafizur Rahman","Specialist":
+        "Chlld Nutrition","Degree":"MBBS, DCH (Australia)","Serial":"monday- Tuesday",
+         "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPuNxc1ByJM-bDBM88LGHCuyr6kSmGUQXtlq5nuif3GGLM8AKE&s "    
+    },
+    {    "id":11,
+        "name":"Prof. Md. Mostafizur Rahman","Specialist":
+        "Paediatric Surgery","Degree":"MBBS, MS","Serial":"Sunday- Thursday",
+         "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSX2Z-fX77tJCef_RZSjG66OFiz-pJ26NUP8q2XUpbWbKmMnPs&s "    
+    }
+    ,
+    {    "id":12,
+        "name":"Prof. Md. Mostafizur Rahman","Specialist":
+        "neuro Surgery","Degree":"MBBS, MS","Serial":"Sunday- Thursday",
+         "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmRbDjVqjlZbG9k2fyuLLAI0va7mOHv_gizPHVo1etvMHQr1Y&s"    
+    }
+]

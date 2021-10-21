@@ -1,0 +1,9 @@
+.doctor{
+    background-color: rgb(151, 155, 172);
+    border-radius: 10px;
+    text-align: center;
+}
+.img{
+    width: 100%;
+    border-radius: 10px;
+}

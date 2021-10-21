@@ -1,0 +1,34 @@
+
+[
+    {    "id":1,
+        "name":"emergency 24-hour service","call":"+ 01 345 647 745","description":
+        "A highly sophisticated 24-Hr unit to attend the accident and emergency cases has been set up at Renai Medicity.  the demands ",
+         "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9lmUjDh67tTOmEBlkwf0E4KgU2ZJEUkhsGg&usqp=CAU "    
+    }, 
+    {   "id":2,
+        "name":"24-Hr Pharmacy","call":"+ 01 345 647 745","description":
+        "Patients admitted at Renai Medicity can rest assured that medicines would be available at the hospital 24 hours.keeping pace with the demands",
+         "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5TZ0ozibwzEV-11fLVbVUApBrhYgRKUWg2Q&usqp=CAU "    
+    },
+    {   "id":3,
+        "name":"Laboratory Services","call":"+ 01 345 647 745","description":
+        "A well equipped medical laboratory with reagents of the best standards are the hallmark of the laboratory at Renai Medicity.keeping pace with ",
+         "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgNX9IIvyGEVxHzlcey6-FcBZWui06e53e2UZOtgDWVNPr5fJXSZNJvQMjjgcdydswcB8&usqp=CAU "    
+    },
+    {   "id":4, 
+        "name":"Ambulance","call":"+ 01 345 647 745","description":
+        "Renai Medicity has well equipped ambulances that are deployed to bring bedridden or trauma patientskeeping pace with the demands  ",
+         "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaS4ZDveHnN3AbRPUHV1KxvCGKM1aMTlgqRw&usqp=CAU"    
+    },
+    {   "id":5,
+        "name":"OPERATION THEATRES","call":"+ 01 345 647 745","description":
+        "Our fourth generation Operation theatres are at par with the bests in the world.keeping pace with the demands of providing  Having",
+         "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9vuZ_zqeeCY8E8S4EWcGaeibGckaKbGP2rQ&usqp=CAU "    
+    },
+    {   "id":6,
+        "name":" 24-hour blood bank","call":"+ 01 345 647 745","description":
+        "We are committed to keeping pace with the demands of providing 24-hour ... of blood or information to donate blood,",
+         "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrK6aAXeGh7qS4CRhNVEptnte_JrzenSej0Q&usqp=CAU "    
+    }
+    
+]
